@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.3.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/philo_new.dir/main.c.o CMakeFiles/philo_new.dir/forks.c.o CMakeFiles/philo_new.dir/time.c.o -o philo_new 
